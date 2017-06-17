@@ -1,4 +1,4 @@
-# MATChallenge
+# CodeChallenge
 
 This was a coding challenge for a company. In Python, I was asked to write a script that would:
 1. Open a CSV file
